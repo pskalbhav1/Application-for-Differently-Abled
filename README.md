@@ -111,6 +111,4 @@ GHCI : Innovative Solutions for the Specially-Abled people post COVID-19 life.
 ## DONE BY:
    ### TEAM : HACK_CODERS
     - PRASEEDHA PRAVEEN KALBHAVI
-    - MINI SHAIL CHHABRA
-    - MARTHALA SAI KAVYA
-   
+    - MINI SHAIL CHHABRA   
