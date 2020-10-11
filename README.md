@@ -2,6 +2,8 @@
 
 GHCI : Innovative Solutions for the Specially-Abled people post COVID-19 life.
 
+Link: https://ghci.azurewebsites.net/
+
 ## 1] OBJECT DETECTION
          Yolo v3 is an algorithm that uses deep convolutional neural networks to detect objects.
 
